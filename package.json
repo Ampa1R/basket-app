@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "watch": "npx webpack --watch",
-    "build": "webpack --mode=production",
+    "build": "npx webpack --mode=production",
     "dev": "./node_modules/.bin/webpack-dev-server --port 3000 --host 0.0.0.0 --hot",
     "start": "npm run build && node server"
   },
@@ -20,11 +20,11 @@
   "homepage": "https://github.com/Ampa1R/basket-app#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "node-fetch": "^2.4.0",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "node-fetch": "^2.4.0"
   },
   "devDependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
     "@babel/core": "^7.3.4",
     "@babel/plugin-proposal-class-properties": "^7.3.4",
     "@babel/plugin-transform-regenerator": "^7.4.0",
