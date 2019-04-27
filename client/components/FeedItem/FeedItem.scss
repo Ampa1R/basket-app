@@ -1,0 +1,46 @@
+.FeedItem {
+  width: 350px;
+  box-shadow: 0px 2px 4px hsla(0, 100%, 0%, .2);
+  margin: 15px 0;
+  transition: all .2s ease-out;
+  background-color: white;
+  padding: 15px;
+
+  &:hover {
+    box-shadow: 0px 5px 10px hsla(0, 100%, 0%, .2);
+
+  }
+
+  &__Price {
+    margin-top: 10px;
+    display: inline-block;
+  }
+  &__Currency {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  &__Button {
+    cursor: pointer;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #ccc;
+    &:hover {
+      background-color: #bbb;
+    }
+  }
+  &__Quantity {
+    margin-left: 10px;
+    display: inline-block;
+
+    button {
+      border: none;
+      background-color: hsl(0, 0%, 90%);
+      padding: 1px 3px;
+      font-weight: bold;
+      margin: 0 2px;
+      cursor: pointer;
+    }
+  }
+}

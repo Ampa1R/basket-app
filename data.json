@@ -1,0 +1,151 @@
+[{
+  "id": 1,
+  "vendor": "Mitsubishi",
+  "model": "Endeavor",
+  "price": 49.26
+}, {
+  "id": 2,
+  "vendor": "Ford",
+  "model": "Taurus",
+  "price": 40.54
+}, {
+  "id": 3,
+  "vendor": "Hyundai",
+  "model": "Excel",
+  "price": 32.95
+}, {
+  "id": 4,
+  "vendor": "Lexus",
+  "model": "GS",
+  "price": 75.27
+}, {
+  "id": 5,
+  "vendor": "Bentley",
+  "model": "Continental GT",
+  "price": 14.42
+}, {
+  "id": 6,
+  "vendor": "Buick",
+  "model": "Century",
+  "price": 83.02
+}, {
+  "id": 7,
+  "vendor": "Chevrolet",
+  "model": "Silverado 3500",
+  "price": 52.97
+}, {
+  "id": 8,
+  "vendor": "Suzuki",
+  "model": "Cultus",
+  "price": 36.2
+}, {
+  "id": 9,
+  "vendor": "Buick",
+  "model": "Lucerne",
+  "price": 55.94
+}, {
+  "id": 10,
+  "vendor": "Jaguar",
+  "model": "XJ",
+  "price": 16.86
+}, {
+  "id": 11,
+  "vendor": "Land Rover",
+  "model": "Range Rover",
+  "price": 50.01
+}, {
+  "id": 12,
+  "vendor": "Chevrolet",
+  "model": "Blazer",
+  "price": 78.8
+}, {
+  "id": 13,
+  "vendor": "Porsche",
+  "model": "Boxster",
+  "price": 48.03
+}, {
+  "id": 14,
+  "vendor": "Mazda",
+  "model": "MX-5",
+  "price": 27.49
+}, {
+  "id": 15,
+  "vendor": "Volkswagen",
+  "model": "GLI",
+  "price": 28.95
+}, {
+  "id": 16,
+  "vendor": "Subaru",
+  "model": "Forester",
+  "price": 17.43
+}, {
+  "id": 17,
+  "vendor": "Honda",
+  "model": "Prelude",
+  "price": 17.2
+}, {
+  "id": 18,
+  "vendor": "Dodge",
+  "model": "Dakota Club",
+  "price": 99.08
+}, {
+  "id": 19,
+  "vendor": "Ford",
+  "model": "Fusion",
+  "price": 6.19
+}, {
+  "id": 20,
+  "vendor": "Buick",
+  "model": "Riviera",
+  "price": 38.89
+}, {
+  "id": 21,
+  "vendor": "Maserati",
+  "model": "Spyder",
+  "price": 3.21
+}, {
+  "id": 22,
+  "vendor": "Mazda",
+  "model": "Miata MX-5",
+  "price": 58.13
+}, {
+  "id": 23,
+  "vendor": "Saab",
+  "model": "9000",
+  "price": 75.01
+}, {
+  "id": 24,
+  "vendor": "Daewoo",
+  "model": "Lanos",
+  "price": 6.2
+}, {
+  "id": 25,
+  "vendor": "Volvo",
+  "model": "850",
+  "price": 40.82
+}, {
+  "id": 26,
+  "vendor": "GMC",
+  "model": "Yukon XL 1500",
+  "price": 66.98
+}, {
+  "id": 27,
+  "vendor": "Dodge",
+  "model": "Grand Caravan",
+  "price": 68.83
+}, {
+  "id": 28,
+  "vendor": "Lincoln",
+  "model": "Navigator",
+  "price": 99.54
+}, {
+  "id": 29,
+  "vendor": "Volkswagen",
+  "model": "Jetta",
+  "price": 82.43
+}, {
+  "id": 30,
+  "vendor": "Mercedes-Benz",
+  "model": "CLS-Class",
+  "price": 64.9
+}]

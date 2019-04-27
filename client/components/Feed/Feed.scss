@@ -1,0 +1,17 @@
+.Feed {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 100%;
+  overflow: scroll;
+  flex-basis: 70%;
+
+  &__Loading {
+    text-align: center;
+    margin: 30px 0;
+  }
+}
