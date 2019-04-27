@@ -27,7 +27,7 @@ class App extends Component {
     this.fetchItems();
   }
   fetchItems = async () => {
-    const res = await fetch('http://localhost/api');
+    const res = await fetch('/api');
     const items = await res.json();
     this.setState((state) => {
       return {
@@ -64,7 +64,7 @@ class App extends Component {
     });
   };
   handleCalculate = async () => {
-    const res = await fetch('http://localhost/api', {
+    const res = await fetch('/api', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
