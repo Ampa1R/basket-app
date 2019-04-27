@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "watch": "npx webpack --watch",
-    "build": "./node_modules/.bin/webpack --mode=production",
+    "build": "webpack --mode=production",
     "dev": "./node_modules/.bin/webpack-dev-server --port 3000 --host 0.0.0.0 --hot",
     "start": "npm run build && node server"
   },
